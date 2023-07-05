@@ -1,0 +1,13 @@
+[
+    {
+        "name": "tab",
+        "weightType": "variable",
+        "weight": 1000,
+        "overrides": [],
+        "stickiness": "default",
+        "payload": {
+            "type": "string",
+            "value": "true"
+        }
+    }
+]
